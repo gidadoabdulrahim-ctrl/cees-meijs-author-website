@@ -21,7 +21,7 @@ export const TrailerSection: React.FC = () => {
           </h2>
           <div className="w-16 h-0.5 bg-[#B38628] mx-auto my-1.5" />
           <p className="text-[#C5BDB0] text-base sm:text-lg font-serif italic max-w-2xl mx-auto">
-            Bekijk de cinematografische boektrailer van Cees Meijs en proef de industriële sfeer van het vroege Eindhoven.
+            Bekijk de cinematografische boektrailer van Cees Meijs en proef de sfeer van het industriële Eindhoven.
           </p>
         </div>
 

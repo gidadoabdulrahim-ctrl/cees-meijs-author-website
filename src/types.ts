@@ -10,6 +10,7 @@ export const BOOK_DETAILS = {
   isbn: '9789083672007',
   language: 'Nederlands',
   format: 'Paperback',
+  pages: '200 pagina’s (onder voorbehoud van bevestiging)',
   coverImage: '/assets/images/book-cover.jpg',
   coverImageWeb: '/assets/images/book-cover-web.jpg',
   authorImage: '/assets/images/author-cees-meijs.jpg',

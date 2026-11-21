@@ -73,16 +73,16 @@ export const OrderSection: React.FC = () => {
                   <span className="text-[#FAF8F5] font-medium">Paperback</span>
                 </div>
                 <div>
+                  <span className="text-[#8C8275] block">Omvang:</span>
+                  <span className="text-[#FAF8F5] font-medium">200 pagina’s (o.v.b.)</span>
+                </div>
+                <div>
                   <span className="text-[#8C8275] block">Taal:</span>
                   <span className="text-[#FAF8F5] font-medium">Nederlands</span>
                 </div>
                 <div>
                   <span className="text-[#8C8275] block">ISBN:</span>
                   <span className="text-[#FAF8F5] font-mono">{BOOK_DETAILS.isbn}</span>
-                </div>
-                <div>
-                  <span className="text-[#8C8275] block">Distributie:</span>
-                  <span className="text-[#FAF8F5] font-medium">Boekenbestellen.nl</span>
                 </div>
               </div>
 

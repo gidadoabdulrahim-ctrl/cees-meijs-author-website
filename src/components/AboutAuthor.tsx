@@ -51,7 +51,7 @@ export const AboutAuthor: React.FC = () => {
           {/* Biography Text Column */}
           <div className="lg:col-span-7 space-y-5 text-[#33302B] leading-relaxed text-base sm:text-lg">
             <p className="font-serif text-xl sm:text-2xl text-[#1D1C1A] font-medium italic leading-snug">
-              Bouwkunde, heemkunde en de fascinatie voor het vroege industriële tijdperk.
+              Bouwkunde, heemkunde en de fascinatie voor het industriële tijdperk.
             </p>
 
             <p>

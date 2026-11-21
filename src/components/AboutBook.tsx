@@ -36,7 +36,7 @@ export const AboutBook: React.FC = () => {
             <span>Het Boek</span>
           </div>
           <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl font-bold text-[#1D1C1A] tracking-tight">
-            Twee werelden ontmoeten elkaar
+            Het verhaal van De Glasfabriek
           </h2>
           <div className="w-16 h-0.5 bg-[#B38628] mx-auto my-1.5" />
           <p className="text-[#63503B] text-lg font-serif italic">
@@ -98,6 +98,12 @@ export const AboutBook: React.FC = () => {
               <div className="flex justify-between items-center text-[#4B4138]">
                 <span className="font-medium">Uitvoering</span>
                 <span className="text-[#1D1C1A] font-semibold">{BOOK_DETAILS.format}</span>
+              </div>
+              <div className="flex justify-between items-start text-[#4B4138]">
+                <span className="font-medium">Omvang</span>
+                <span className="text-[#1D1C1A] font-semibold text-right">
+                  200 pagina’s <span className="text-xs text-[#8C7355] font-normal block">(onder voorbehoud van bevestiging)</span>
+                </span>
               </div>
               <div className="flex justify-between items-center text-[#4B4138]">
                 <span className="font-medium">Taal</span>

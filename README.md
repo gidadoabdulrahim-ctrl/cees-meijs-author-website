@@ -8,6 +8,7 @@ Een premium, responsieve auteurswebsite voor de Nederlandse schrijver **Cees Mei
 - **Auteur**: Cees Meijs (1953)
 - **Boek**: *De Glasfabriek* (Historische roman)
 - **Hoofdpersoon**: Peer Verdonk
+- **Omvang**: 200 pagina’s (onder voorbehoud van bevestiging)
 - **Historische context**: De Brabantse Kempen & de opkomst van Philips en de bouw van de glasfabriek op Strijp S in Eindhoven.
 - **Eerdere publicaties van Cees Meijs**: *Het provinciehuis in de steigers*, *Steengoed*, korte verhalen in *Brabants Dagblad* en *Brabeau*.
 - **Officiële bestellink**: [https://www.boekenbestellen.nl/boek/de-glasfabriek/80213](https://www.boekenbestellen.nl/boek/de-glasfabriek/80213)
